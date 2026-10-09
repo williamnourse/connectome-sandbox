@@ -1,6 +1,7 @@
 # Repo structure
 data/
 .venv/
+generated/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
